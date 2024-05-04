@@ -1473,6 +1473,41 @@ a {
 .cid-ubK9Cht8u7 .card-title {
   text-align: left;
 }
+.cid-ubNyUi2exK {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-ubNyUi2exK .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ubNyUi2exK .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ubNyUi2exK .item-wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+  border-radius: 0 !important;
+}
+@media (max-width: 767px) {
+  .cid-ubNyUi2exK .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ubNyUi2exK .mbr-iconfont {
+  font-size: 3rem;
+  color: #232323;
+  padding-right: 2rem;
+}
+.cid-ubNyUi2exK .content-head {
+  max-width: 800px;
+}
 .cid-ubJRj3DigN {
   padding-top: 4rem;
   padding-bottom: 4rem;
