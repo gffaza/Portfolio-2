@@ -1952,41 +1952,6 @@ a {
 .cid-ubK9Cht8u7 .card-title {
   text-align: left;
 }
-.cid-ubSYeKDF1t {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-ubSYeKDF1t .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ubSYeKDF1t .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ubSYeKDF1t .item-wrapper {
-  display: flex;
-  margin-bottom: 2rem;
-  border-radius: 0 !important;
-}
-@media (max-width: 767px) {
-  .cid-ubSYeKDF1t .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-ubSYeKDF1t .mbr-iconfont {
-  font-size: 3rem;
-  color: #232323;
-  padding-right: 2rem;
-}
-.cid-ubSYeKDF1t .content-head {
-  max-width: 800px;
-}
 .cid-ubJOTn4vcd {
   padding-top: 5rem;
   padding-bottom: 5rem;
